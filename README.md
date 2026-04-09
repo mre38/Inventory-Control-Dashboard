@@ -10,6 +10,11 @@ The goal of this analysis was to create a centralized system for tracking produc
 * **Reorder Rate:** 55% (11 out of 20 products require immediate replenishment)
 * **Out-of-Stock Items:** 6 Products (30% of total catalog)
 
+##  DashBoard
+<img width="1454" height="583" alt="Screenshot  200011" src="https://github.com/user-attachments/assets/6cc156b9-6336-40c6-88e5-45d86c0bf073" />
+
+
+
 ---
 
 ## Technical Features of the Dashboard
